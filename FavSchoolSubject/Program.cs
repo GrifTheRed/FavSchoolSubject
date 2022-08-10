@@ -33,7 +33,7 @@ namespace FavSchoolSubject
                     Console.WriteLine("everyone liked gym class, come on");
                     break;
 
-                case "defualt":
+                    default:
                     Console.WriteLine("didn't have that at my school");
                     break;
             }
